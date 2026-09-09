@@ -49,3 +49,7 @@ sum.ts                 # Implementación de la operación de suma (TypeScript)
 sum.test.ts            # Prueba unitaria para la operación de suma
 
 tsconfig.json          # Configuración del compilador de TypeScript 
+
+# Prueba de ejecución del workflow
+
+Segunda línea de prueba para GitHub Actions
