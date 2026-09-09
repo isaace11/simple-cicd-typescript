@@ -31,7 +31,7 @@ jobs:
         run: npm run build
 
       - name: Prepare site
-       run: |
+        run: |
          mkdir -p site
          cp index.html sum.js subtract.js multiply.js divide.js site/
 
